@@ -54,11 +54,6 @@ parser.add_argument('-b', '--batch_size', dest="batch_size", default=64, type=in
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N',
                     help='number of data loading workers (defult: 4)')
 
-path = {
-    'NoXi': '/mnt/disk/TangWang/SRR_dyadResult/NoXi_final',
-    'UDIVA': '/mnt/disk/TangWang/SRR_dyadResult/UDIVA_final',
-}
-
 parser.add_argument('--epochs', dest="epochs", default=200, type=int,
                     help='path for saving result (default: none)')
 
