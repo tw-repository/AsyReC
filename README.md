@@ -1,5 +1,5 @@
-# Clip-DRR
-AsyDyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification
+# AsyReC
+AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification
 
 ## Environment
 Please refer to the "environment.txt".
